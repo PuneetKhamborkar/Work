@@ -1,2 +1,2 @@
 # Work
-Work related documents
+Work-related documents
